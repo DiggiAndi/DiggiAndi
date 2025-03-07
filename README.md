@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, ich bin Diggi Andi!
 
-<!--
-**DiggiAndi/DiggiAndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Webentwickler | AI & Musik Enthusiast
 
-Here are some ideas to get you started:
+Willkommen auf meinem GitHub-Profil!  
+Hier findest du meine spannenden Projekte rund um Webentwicklung, Apps und Künstliche Intelligenz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack:
+
+- Frontend: HTML, CSS, JavaScript, Angular, React, Ionic
+- Backend: .NET, Node.js, Express
+- Datenbanken: MongoDB, SQL
+- CMS: WordPress
+- DevOps: Docker, Kubernetes, CI/CD
+
+---
+
+## 🎧 KI & Musik:
+
+Neben der Entwicklung begeistere ich mich für Musik, die mit Künstlicher Intelligenz erzeugt wird. Hör doch mal rein!
+
+📺 [YouTube-Kanal]([https://youtube.com/@DiggiAndi])
+
+🌐 [diggi-andi.com](https://diggi-andi.com)
+
+---
+
+## 📬 Kontakt:
+
+- Website: [diggi-andi.com](https://diggi-andi.com)
+- Instagram: https://www.instagram.com/diggi_andi/
+- TikTok: https://www.tiktok.com/@diggi_andi.com
+- E-Mail: info@diggi-andi.com
+
